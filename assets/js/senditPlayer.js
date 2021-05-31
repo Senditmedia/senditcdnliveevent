@@ -1,210 +1,206 @@
-var _0x35d9 = [
-  "loader",
-  "none",
-  "destroy",
-  "send",
+var _0x1a01 = [
+  "ErrorTypes",
+  "details",
   "MEDIA_ERROR",
-  "readyState",
-  "1lgcWcU",
-  "OTHER_ERROR",
-  "ErrorDetails",
-  "275861gXlAtA",
-  "3FJWqOX",
-  "https://externalliveevent.sendit.media/vod/",
+  "classList",
+  "Mouse\x20idle\x20for\x203\x20sec",
+  "online",
+  "NETWORK_ERROR",
   "get",
-  "MEDIA_ATTACHED",
+  "Send\x20it:\x20Network\x20error,\x20we\x20trying\x20to\x20fix\x20it",
+  "675755SetsvK",
+  "body",
+  "send",
+  "createElement",
   "HEAD",
-  "/playlist.m3u8",
-  "display",
-  "style",
-  "53527YVkTeK",
+  "1051378AcEuGe",
+  "1QZHUVT",
+  "Send\x20it:\x20Live\x20endpoint\x20is\x20up,\x20switching\x20to\x20it",
+  ".m3u8",
+  "fatal",
+  "value",
+  "canPlayType",
+  "MEDIA_ATTACHED",
+  "attachMedia",
+  "OTHER_ERROR",
+  "593148KKwxWq",
+  "addEventListener",
+  "https://externalliveevent.sendit.media/vod/",
+  "1UOdfkm",
+  "310891KkKcZs",
   "input",
-  "url",
+  "Events",
+  "939573TmRJCH",
+  "mousemove",
+  "hidden-controls",
+  "vod",
+  "recoverMediaError",
+  "DONE",
+  "display",
+  "Send\x20it:\x20Live\x20endpoint\x20currently\x20down",
+  "open",
+  "src",
+  "quality",
+  "play",
+  "status",
+  "Send\x20it:\x20Media\x20error,\x20we\x20trying\x20to\x20fix\x20it",
+  "none",
+  "MANIFEST_PARSED",
   "reloadOnError()",
   "isSupported",
-  "online",
-  "Send\x20it:\x20Live\x20endpoint\x20is\x20up,\x20switching\x20to\x20it",
-  "ErrorTypes",
-  "1KsuGrO",
-  "abort",
-  "onreadystatechange",
-  "Send\x20it:\x20Media\x20error,\x20we\x20trying\x20to\x20fix\x20it",
-  "820058VwZMVH",
-  "src",
-  "appendChild",
-  "7DoZHgU",
-  "play",
-  "errorVideo",
-  "location",
-  "16433OBLVGa",
-  "value",
-  "recoverMediaError",
-  "undefined",
-  "onerror",
-  "Send\x20it:\x20Other\x20error,\x20we\x20trying\x20to\x20fix\x20it",
-  "loop",
-  "log",
-  "https://cfvliveevent.sendit.media/",
-  "Send\x20it:\x20Live\x20endpoint\x20currently\x20down",
-  "Send\x20it:\x20Fragment\x20ERROR\x20DECTECT",
-  "hidden",
+  "setAttribute",
   "type",
-  "MANIFEST_PARSED",
-  "https://error.sendit.media/hls/error.m3u8",
-  "1283343THqDcu",
-  "4RcYehr",
-  "open",
-  "attachMedia",
-  "ERROR",
-  "bufferStalledError",
-  "detachMedia",
-  "debug",
-  "key",
-  "body",
-  "search",
-  "details",
-  "1248159QeOKHr",
   "load",
-  "status",
-  "351954eVaVsf",
-  "2KZJVfX",
+  "remove",
+  "abort",
+  "Send\x20it:\x20Fragment\x20ERROR\x20DECTECT",
+  "ErrorDetails",
+  "detachMedia",
+  "style",
+  "366632ELSAJe",
+  "bufferStalledError",
+  "url",
+  "key",
+  "search",
+  "https://error.sendit.media/hls/error.m3u8",
+  "https://cfvliveevent.sendit.media/",
+  "DefaultConfig",
   "getElementById",
-  ".m3u8",
-  "createElement",
-  "Events",
-  "fatal",
-  "offline",
-  "FRAG_LOAD_ERROR",
-  "vod",
+  "destroy",
+  "Send\x20it:\x20Other\x20error,\x20we\x20trying\x20to\x20fix\x20it",
+  "ERROR",
+  "onerror",
+  "undefined",
+  "loop",
+  "loadSource",
+  "841292CeSWPf",
+  "add",
+  "log",
 ];
-var _0x485e = function (_0x30c38f, _0x17bd2e) {
-  _0x30c38f = _0x30c38f - 0xc9;
-  var _0x35d94d = _0x35d9[_0x30c38f];
-  return _0x35d94d;
-};
-var _0x4daf1d = _0x485e;
-(function (_0x268b65, _0x4c8fb0) {
-  var _0x20592d = _0x485e;
+var _0x2ee4ef = _0x5d2b;
+(function (_0x2f53d6, _0x14c861) {
+  var _0x12f387 = _0x5d2b;
   while (!![]) {
     try {
-      var _0x1de98 =
-        parseInt(_0x20592d(0x102)) * -parseInt(_0x20592d(0xf4)) +
-        -parseInt(_0x20592d(0xc9)) * parseInt(_0x20592d(0xe4)) +
-        parseInt(_0x20592d(0xff)) * -parseInt(_0x20592d(0x112)) +
-        parseInt(_0x20592d(0x115)) +
-        -parseInt(_0x20592d(0x103)) * -parseInt(_0x20592d(0xdd)) +
-        parseInt(_0x20592d(0xe0)) * parseInt(_0x20592d(0xd1)) +
-        parseInt(_0x20592d(0xd9)) * parseInt(_0x20592d(0xf3));
-      if (_0x1de98 === _0x4c8fb0) break;
-      else _0x268b65["push"](_0x268b65["shift"]());
-    } catch (_0x2c416b) {
-      _0x268b65["push"](_0x268b65["shift"]());
+      var _0x343e67 =
+        parseInt(_0x12f387(0x1c2)) +
+        -parseInt(_0x12f387(0x1c1)) * parseInt(_0x12f387(0x1be)) +
+        -parseInt(_0x12f387(0x1b5)) * parseInt(_0x12f387(0x1a3)) +
+        -parseInt(_0x12f387(0x1af)) +
+        parseInt(_0x12f387(0x1c5)) +
+        parseInt(_0x12f387(0x1b4)) +
+        parseInt(_0x12f387(0x193));
+      if (_0x343e67 === _0x14c861) break;
+      else _0x2f53d6["push"](_0x2f53d6["shift"]());
+    } catch (_0x4b4acb) {
+      _0x2f53d6["push"](_0x2f53d6["shift"]());
     }
   }
-})(_0x35d9, 0xd417f);
-var videoError = document[_0x4daf1d(0x104)](_0x4daf1d(0xe2)),
+})(_0x1a01, 0x884c7);
+var videoError = document[_0x2ee4ef(0x19b)]("errorVideo"),
   bufferStallErrors = 0x0,
   errorLoop = 0x0,
   somethingChanged = ![];
-const queryString = window[_0x4daf1d(0xe3)][_0x4daf1d(0xfd)],
+const queryString = window["location"][_0x2ee4ef(0x197)],
   urlParams = new URLSearchParams(queryString),
-  key = urlParams[_0x4daf1d(0xcb)](_0x4daf1d(0xfb)),
-  vod = urlParams[_0x4daf1d(0xcb)](_0x4daf1d(0x10b));
+  key = urlParams["get"](_0x2ee4ef(0x196)),
+  vod = urlParams[_0x2ee4ef(0x1ad)](_0x2ee4ef(0x1c8));
 if (vod == "" || vod == null)
-  var videoSrc = _0x4daf1d(0xec) + key + _0x4daf1d(0x105),
-    videoErrorSrc = _0x4daf1d(0xf2);
+  var videoSrc = _0x2ee4ef(0x199) + key + _0x2ee4ef(0x1b7),
+    videoErrorSrc = _0x2ee4ef(0x198);
 else
-  var videoSrc = _0x4daf1d(0xca) + key + _0x4daf1d(0xce),
-    videoErrorSrc = "https://error.sendit.media/hls/error.m3u8";
+  var videoSrc = _0x2ee4ef(0x1c0) + key + "/playlist.m3u8",
+    videoErrorSrc = _0x2ee4ef(0x198);
 var liveOnline = !![],
   errorCount = 0x0,
   stalledCount = 0x0,
-  element2Monitor = document[_0x4daf1d(0x106)](_0x4daf1d(0xd2));
-(element2Monitor[_0x4daf1d(0xf0)] = _0x4daf1d(0xef)),
-  (element2Monitor["value"] = _0x4daf1d(0xd6)),
-  document[_0x4daf1d(0xfc)][_0x4daf1d(0xdf)](element2Monitor);
-var element2MonitorStartValue = _0x4daf1d(0xd6),
+  element2Monitor = document[_0x2ee4ef(0x1b2)](_0x2ee4ef(0x1c3));
+(element2Monitor["type"] = "hidden"),
+  (element2Monitor[_0x2ee4ef(0x1b9)] = _0x2ee4ef(0x1ab)),
+  document[_0x2ee4ef(0x1b0)]["appendChild"](element2Monitor);
+var element2MonitorStartValue = _0x2ee4ef(0x1ab),
   testing = ![],
   hlsOrHtmlPlayer = null;
-if (Hls[_0x4daf1d(0xd5)]()) {
+if (Hls[_0x2ee4ef(0x1d6)]()) {
   hlsOrHtmlPlayer = !![];
   var hls = new Hls({
     debug: ![],
     enableWorker: !![],
     startLevel: 0x3,
     autoLevelEnabled: !![],
-    pLoader: function (_0x41d8f2) {
-      var _0x48ff23 = _0x4daf1d;
-      let _0x5a94c5 = new Hls["DefaultConfig"][_0x48ff23(0x10c)](_0x41d8f2);
-      (this["abort"] = () => _0x5a94c5[_0x48ff23(0xda)]()),
-        (this[_0x48ff23(0x10e)] = () => _0x5a94c5["destroy"]()),
-        (this["load"] = (_0x3212d3, _0x581248, _0x3e0f55) => {
-          let { type: _0x1f3e7d, url: _0x152647 } = _0x3212d3;
-          _0x5a94c5["load"](_0x3212d3, _0x581248, _0x3e0f55);
+    pLoader: function (_0xf36ff9) {
+      var _0x2e9caa = _0x2ee4ef;
+      let _0xfad8ea = new Hls[_0x2e9caa(0x19a)]["loader"](_0xf36ff9);
+      (this[_0x2e9caa(0x1db)] = () => _0xfad8ea[_0x2e9caa(0x1db)]()),
+        (this[_0x2e9caa(0x19c)] = () => _0xfad8ea[_0x2e9caa(0x19c)]()),
+        (this[_0x2e9caa(0x1d9)] = (_0x311f32, _0x174b84, _0x21c7b5) => {
+          var _0x4f5855 = _0x2e9caa;
+          let { type: _0x3d953f, url: _0x2767cd } = _0x311f32;
+          _0xfad8ea[_0x4f5855(0x1d9)](_0x311f32, _0x174b84, _0x21c7b5);
         });
     },
   });
-  hls["loadSource"](videoSrc),
+  hls[_0x2ee4ef(0x1a2)](videoSrc),
     hls["attachMedia"](video),
-    hls["on"](Hls["Events"][_0x4daf1d(0xcc)], function () {
-      var _0x3b2414 = _0x4daf1d;
+    hls["on"](Hls[_0x2ee4ef(0x1c4)][_0x2ee4ef(0x1bb)], function () {
+      var _0x5d3e63 = _0x2ee4ef;
       hls["on"](
-        Hls[_0x3b2414(0x107)][_0x3b2414(0xf1)],
-        function (_0x5a4c09, _0x4ffc66) {
-          var _0x1330d0 = _0x3b2414;
-          video[_0x1330d0(0xe1)]();
+        Hls[_0x5d3e63(0x1c4)][_0x5d3e63(0x1d4)],
+        function (_0x3c7b35, _0xec23c0) {
+          var _0x500ebe = _0x5d3e63;
+          video[_0x500ebe(0x1d0)]();
         }
       );
     }),
     hls["on"](
-      Hls[_0x4daf1d(0x107)][_0x4daf1d(0xf7)],
-      function (_0x1d2dbe, _0x3d7fa6) {
-        var _0x3ad435 = _0x4daf1d,
-          _0x47e26b = _0x3d7fa6[_0x3ad435(0xf0)],
-          _0x41e34e = _0x3d7fa6["details"],
-          _0x4ce30e = _0x3d7fa6[_0x3ad435(0x108)];
-        switch (_0x3d7fa6[_0x3ad435(0xfe)]) {
-          case Hls[_0x3ad435(0x114)][_0x3ad435(0x10a)]:
-            console[_0x3ad435(0xfa)](_0x3ad435(0xee));
+      Hls[_0x2ee4ef(0x1c4)][_0x2ee4ef(0x19e)],
+      function (_0x1d7d3e, _0xdc288d) {
+        var _0x52afec = _0x2ee4ef,
+          _0x419f5c = _0xdc288d[_0x52afec(0x1d8)],
+          _0x422c2 = _0xdc288d["details"],
+          _0x5638a7 = _0xdc288d[_0x52afec(0x1b8)];
+        switch (_0xdc288d[_0x52afec(0x1a7)]) {
+          case Hls[_0x52afec(0x190)]["FRAG_LOAD_ERROR"]:
+            console["debug"](_0x52afec(0x1dc));
             break;
           default:
             break;
         }
-        if (_0x41e34e == _0x3ad435(0xf8)) {
+        if (_0x422c2 == _0x52afec(0x194)) {
           if (errorLoop > 0x0) {
           } else errorLoop++;
         }
-        if (_0x3d7fa6[_0x3ad435(0x108)])
-          switch (_0x47e26b) {
-            case Hls[_0x3ad435(0xd8)]["NETWORK_ERROR"]:
-              console[_0x3ad435(0xeb)](
-                "Send\x20it:\x20Network\x20error,\x20we\x20trying\x20to\x20fix\x20it"
-              );
-              hls[_0x3ad435(0xd3)] == videoSrc &&
-                (hls["detachMedia"](),
-                hls["loadSource"](videoErrorSrc),
-                hls[_0x3ad435(0xf6)](video),
-                video[_0x3ad435(0xe1)](),
-                (video[_0x3ad435(0xea)] = !![]),
-                (element2Monitor["value"] = _0x3ad435(0x109)));
+        if (_0xdc288d[_0x52afec(0x1b8)])
+          switch (_0x419f5c) {
+            case Hls[_0x52afec(0x1a6)][_0x52afec(0x1ac)]:
+              console[_0x52afec(0x1a5)](_0x52afec(0x1ae));
+              hls[_0x52afec(0x195)] == videoSrc &&
+                (hls[_0x52afec(0x191)](),
+                hls[_0x52afec(0x1a2)](videoErrorSrc),
+                hls[_0x52afec(0x1bc)](video),
+                video["play"](),
+                (video["loop"] = !![]),
+                (element2Monitor[_0x52afec(0x1b9)] = "offline"));
               errorLoop = 0x0;
               break;
-            case Hls[_0x3ad435(0xd8)][_0x3ad435(0x110)]:
-              console["log"](_0x3ad435(0xdc)), hls["recoverMediaError"]();
+            case Hls["ErrorTypes"][_0x52afec(0x1a8)]:
+              console[_0x52afec(0x1a5)](_0x52afec(0x1d2)),
+                hls[_0x52afec(0x1c9)]();
               break;
-            case Hls[_0x3ad435(0xd8)][_0x3ad435(0x113)]:
-              console[_0x3ad435(0xeb)](_0x3ad435(0xe9)), hls[_0x3ad435(0xe6)]();
+            case Hls["ErrorTypes"][_0x52afec(0x1bd)]:
+              console[_0x52afec(0x1a5)](_0x52afec(0x19d)),
+                hls[_0x52afec(0x1c9)]();
               break;
             default:
-              hls[_0x3ad435(0x10e)]();
+              hls[_0x52afec(0x19c)]();
               break;
           }
       }
     );
   function track_change() {
-    var _0x1f93fb = _0x4daf1d;
-    element2Monitor[_0x1f93fb(0xe5)] != element2MonitorStartValue &&
-      ((element2MonitorStartValue = element2Monitor[_0x1f93fb(0xe5)]),
+    var _0x39c50b = _0x2ee4ef;
+    element2Monitor[_0x39c50b(0x1b9)] != element2MonitorStartValue &&
+      ((element2MonitorStartValue = element2Monitor[_0x39c50b(0x1b9)]),
       (somethingChanged = !![]),
       onlineMonitor());
   }
@@ -213,83 +209,106 @@ if (Hls[_0x4daf1d(0xd5)]()) {
   }, 0x64),
     onlineMonitor();
 } else {
-  if (video["canPlayType"]("application/vnd.apple.mpegurl")) {
+  if (video[_0x2ee4ef(0x1ba)]("application/vnd.apple.mpegurl")) {
     (hlsOrHtmlPlayer = ![]),
-      (video[_0x4daf1d(0xde)] = videoSrc),
-      video["setAttribute"](_0x4daf1d(0xe8), _0x4daf1d(0xd4));
+      (video[_0x2ee4ef(0x1ce)] = videoSrc),
+      video[_0x2ee4ef(0x1d7)](_0x2ee4ef(0x19f), _0x2ee4ef(0x1d5));
     function reloadOnError() {
-      var _0xa42903 = _0x4daf1d;
+      var _0x32045d = _0x2ee4ef;
       errorCount == 0x0 &&
-        ((video[_0xa42903(0xde)] = videoErrorSrc),
+        ((video[_0x32045d(0x1ce)] = videoErrorSrc),
         (video["muted"] = !![]),
         (video["loop"] = !![]),
-        video[_0xa42903(0x100)](),
-        video["play"](),
+        video["load"](),
+        video[_0x32045d(0x1d0)](),
         errorCount == 0x1);
     }
   }
 }
 function onlineMonitor() {
-  var _0x4a9a4f = _0x4daf1d;
-  if (hls[_0x4a9a4f(0xd3)] == videoErrorSrc) {
-    var _0x1d77fc = new XMLHttpRequest();
-    _0x1d77fc[_0x4a9a4f(0xf5)](_0x4a9a4f(0xcd), videoSrc),
-      (_0x1d77fc[_0x4a9a4f(0xdb)] = function () {
-        var _0xcd0504 = _0x4a9a4f;
-        if (this["readyState"] == this["DONE"]) {
+  var _0x39a268 = _0x2ee4ef;
+  if (hls[_0x39a268(0x195)] == videoErrorSrc) {
+    var _0x33dd5a = new XMLHttpRequest();
+    _0x33dd5a["open"]("HEAD", videoSrc),
+      (_0x33dd5a["onreadystatechange"] = function () {
+        var _0x22e810 = _0x39a268;
+        if (this["readyState"] == this[_0x22e810(0x1ca)]) {
           if (
-            this[_0xcd0504(0x101)] == 0x194 &&
-            hls[_0xcd0504(0xd3)] == videoErrorSrc
+            this[_0x22e810(0x1d1)] == 0x194 &&
+            hls[_0x22e810(0x195)] == videoErrorSrc
           )
-            console["log"](_0xcd0504(0xed), videoSrc);
+            console[_0x22e810(0x1a5)](
+              "Send\x20it:\x20Live\x20endpoint\x20currently\x20down",
+              videoSrc
+            );
           else
-            this[_0xcd0504(0x101)] == 0xc8 &&
+            this[_0x22e810(0x1d1)] == 0xc8 &&
               hls["url"] == videoErrorSrc &&
-              (console[_0xcd0504(0xeb)](_0xcd0504(0xd7)),
-              (element2Monitor[_0xcd0504(0xe5)] = _0xcd0504(0xd6)),
+              (console[_0x22e810(0x1a5)](_0x22e810(0x1b6)),
+              (element2Monitor["value"] = "online"),
               (somethingChanged = ![]),
-              (video[_0xcd0504(0xea)] = ![]),
-              hls[_0xcd0504(0xf9)](),
-              hls["loadSource"](videoSrc),
-              hls[_0xcd0504(0xf6)](video),
-              video[_0xcd0504(0xe1)]());
+              (video[_0x22e810(0x1a1)] = ![]),
+              hls[_0x22e810(0x191)](),
+              hls[_0x22e810(0x1a2)](videoSrc),
+              hls[_0x22e810(0x1bc)](video),
+              video[_0x22e810(0x1d0)]());
         }
       }),
-      _0x1d77fc[_0x4a9a4f(0x10f)](),
+      _0x33dd5a[_0x39a268(0x1b1)](),
       setTimeout(onlineMonitor, 0x7d0);
   }
 }
 onlineMonitorHLSNative();
 function onlineMonitorHLSNative() {
-  var _0x342505 = _0x4daf1d,
-    _0x49502c = new XMLHttpRequest();
-  _0x49502c["open"]("HEAD", videoSrc),
-    (_0x49502c[_0x342505(0xdb)] = function () {
-      var _0x384ce1 = _0x342505;
-      if (this[_0x384ce1(0x111)] == this["DONE"]) {
+  var _0x5cde30 = _0x2ee4ef,
+    _0x254ea6 = new XMLHttpRequest();
+  _0x254ea6[_0x5cde30(0x1cd)](_0x5cde30(0x1b3), videoSrc),
+    (_0x254ea6["onreadystatechange"] = function () {
+      var _0x34d543 = _0x5cde30;
+      if (this["readyState"] == this[_0x34d543(0x1ca)]) {
         if (
-          this[_0x384ce1(0x101)] == 0x194 &&
-          video[_0x384ce1(0xde)] == videoSrc
+          this[_0x34d543(0x1d1)] == 0x194 &&
+          video[_0x34d543(0x1ce)] == videoSrc
         )
-          console[_0x384ce1(0xeb)](_0x384ce1(0xed), videoSrc),
-            (video[_0x384ce1(0xea)] = !![]),
-            (video[_0x384ce1(0xde)] = videoErrorSrc),
-            video["load"](),
-            video[_0x384ce1(0xe1)]();
+          console[_0x34d543(0x1a5)](_0x34d543(0x1cc), videoSrc),
+            (video[_0x34d543(0x1a1)] = !![]),
+            (video[_0x34d543(0x1ce)] = videoErrorSrc),
+            video[_0x34d543(0x1d9)](),
+            video[_0x34d543(0x1d0)]();
         else
-          this[_0x384ce1(0x101)] == 0xc8 &&
-            video["src"] == videoErrorSrc &&
-            (console[_0x384ce1(0xeb)](_0x384ce1(0xd7)),
-            (video[_0x384ce1(0xea)] = ![]),
-            (video[_0x384ce1(0xde)] = videoSrc),
-            video[_0x384ce1(0x100)](),
-            video[_0x384ce1(0xe1)]());
+          this[_0x34d543(0x1d1)] == 0xc8 &&
+            video[_0x34d543(0x1ce)] == videoErrorSrc &&
+            (console[_0x34d543(0x1a5)](_0x34d543(0x1b6)),
+            (video[_0x34d543(0x1a1)] = ![]),
+            (video[_0x34d543(0x1ce)] = videoSrc),
+            video[_0x34d543(0x1d9)](),
+            video[_0x34d543(0x1d0)]());
       }
     }),
-    _0x49502c[_0x342505(0x10f)](),
+    _0x254ea6[_0x5cde30(0x1b1)](),
     setTimeout(onlineMonitorHLSNative, 0x1f40);
 }
-typeof hls === _0x4daf1d(0xe7) &&
-  (document[_0x4daf1d(0x104)]("quality")[_0x4daf1d(0xd0)][
-    _0x4daf1d(0xcf)
-  ] = _0x4daf1d(0x10d));
+typeof hls === _0x2ee4ef(0x1a0) &&
+  (document[_0x2ee4ef(0x19b)](_0x2ee4ef(0x1cf))[_0x2ee4ef(0x192)][
+    _0x2ee4ef(0x1cb)
+  ] = _0x2ee4ef(0x1d3));
+let timeout = null;
+function _0x5d2b(_0x3a7cd7, _0x3b974b) {
+  _0x3a7cd7 = _0x3a7cd7 - 0x190;
+  var _0x1a01f4 = _0x1a01[_0x3a7cd7];
+  return _0x1a01f4;
+}
+const videoControlsDiv = document[_0x2ee4ef(0x19b)]("video-controls");
+document[_0x2ee4ef(0x1bf)](_0x2ee4ef(0x1c6), (_0x25470a) => {
+  var _0x1b79ae = _0x2ee4ef;
+  (shouldHide = ![]),
+    clearTimeout(timeout),
+    videoControlsDiv[_0x1b79ae(0x1a9)]["contains"]("hidden-controls") &&
+      videoControlsDiv[_0x1b79ae(0x1a9)][_0x1b79ae(0x1da)](_0x1b79ae(0x1c7)),
+    (timeout = setTimeout(function () {
+      var _0xc5050c = _0x1b79ae;
+      console["log"](_0xc5050c(0x1aa)),
+        (shouldHide = !![]),
+        videoControlsDiv["classList"][_0xc5050c(0x1a4)](_0xc5050c(0x1c7));
+    }, 0x7d0));
+});
